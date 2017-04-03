@@ -1,0 +1,18 @@
+<!--左の会話-->
+<div class="talk-wrap">
+<div class="left-icon" style="background-image: url(https://cdn-ak.f.st-hatena.com/images/fotolife/a/ayame253/20170303/20170303152453.png);"></div>
+<div class="talk-left">
+<p>guriguraさん、8ビート出来てるじゃないですか！</p>
+</div>
+</div>
+<!--左はここまで-->
+<!--右の会話-->
+<div class="talk-wrap">
+<div class="right-icon" style="background-image: url(https://cdn-ak.f.st-hatena.com/images/fotolife/a/ayame253/20170303/20170303161606.png);"></div>
+<div class="talk-right">
+<p>あ、ほんとです？</p>
+</div>
+</div>
+<!--右はここまで-->
+<!--↓会話部分の最後にこれを必ず付け加えて↓-->
+<div class="talk-end"></div>
